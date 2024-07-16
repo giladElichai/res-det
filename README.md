@@ -1,1 +1,1 @@
-# resdet
+# res-det
