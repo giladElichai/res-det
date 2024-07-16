@@ -1,1 +1,1 @@
-# resnet-ssd
+# resdet
